@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spoonacular API</string>
+    <string name="bacon_king_burger">Bacon King Burger</string>
+    <string name="nama_menu">Bacon King</string>
+    <string name="nutrisi">Nutrisi</string>
+    <string name="isi_data_nutrisi">Isi Nutrisi</string>
+    <string name="kalori">Kalori</string>
+    <string name="persentase_kalori">Persentase Kalori</string>
+    <string name="detail_kalori">Detail Kalori</string>
+
+</resources>
